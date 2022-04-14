@@ -1,0 +1,147 @@
+#contenerdorIzq{
+  height: 35em;
+}
+
+#contenerdorIzq{
+  text-align: center;
+  padding-top: 10em;
+  padding-right: 5em;
+  padding-left: 5em;
+}
+
+#contenerdorIzq p{
+    font-size: 1.5em;
+   
+}
+
+
+#contenerdorDer{
+  height: 35em;
+  
+}
+
+#contenerdorDer img{
+
+   margin-top: 5em;
+   margin-left: 10em;
+   border-radius: 15em;
+}
+
+h1{
+  text-align: center;
+}
+
+h2{
+  text-align: center;
+
+  
+}
+
+
+#boton{
+  margin-left: 11em !important;
+  margin-top: 1em;
+}
+
+
+#seccion1{
+  height: 20em;
+}
+
+.proyectos{
+   height: 50em;
+   text-align: center;
+}
+
+#titulo{
+  height: 10em;
+}
+
+
+#Projects p{
+  text-align: center;
+}
+
+#Projects a {
+  margin-left: 7em;
+}
+
+
+
+.carta{ 
+  width: 33em;
+  height: 20em;
+ 
+  
+}
+
+.carta p{
+  text-align: center;
+}
+
+
+#nParentContenedor{
+  background-color: rebeccapurple;
+  height: 35em;
+  padding-top: 8em;
+  padding-left: 8em;
+}
+
+#nParentContenedor p {
+  text-align: center;
+}
+
+#division1 div{
+  height: 28em;
+}
+
+#division1 img{
+  margin-top: 4em;
+}
+
+#division2{
+  padding: 3em;
+}
+
+
+#division2 button{
+  margin-top: 1em;
+  
+}
+
+
+#division2 div{
+  height: 5em;
+}
+
+#botones{
+    padding-top: 0.6em;
+    padding-left: 15em;
+}
+
+#proyecto3 p{
+    height: 5.8em;
+}
+
+
+#proyecto1{
+    height: 33em;
+}
+
+#proyecto1 p{
+    margin-bottom: 2.5em;
+}
+
+#logito{
+    margin-top: 8px;
+}
+
+footer{
+    height: 5em;
+    margin-top: 3em;
+}
+
+footer p{
+    color: white;
+    padding-left: 2em;
+}
